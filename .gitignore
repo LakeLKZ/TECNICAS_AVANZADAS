@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+**/bin/
+**/obj/
+
+# Rider
+.idea/
+
+# Node/npm
+node_modules/
+
+# Logs
+*.log
+
+# Docker
+**/postgres_data/
+
+# Otros
+*.db
